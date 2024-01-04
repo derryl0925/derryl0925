@@ -7,15 +7,11 @@
 I'm a second year Computer Engineering and Cognitive Science (Machine Learning) student at UC San Diego 🔱. I love working with computers within software roles and learning new technologies. I'm passionate about CS education and spreading CS to underrepresented communities!
 
 - I'm currently working at:
-  - 🎮 [LearnWise AI](https://learnwise.ai/) as a software engineering intern, working with [AWS Lambda](https://aws.amazon.com/pm/lambda/?trk=73f686c8-9606-40ad-852f-7b2bcafa68fe&sc_channel=ps&ef_id=CjwKCAjw7c2pBhAZEiwA88pOF3Z5p4IJyRnwDbFg6Uqu4Qlt8SfkNjY42dbMOoOlfsI7EW12li-iuRoCzUwQAvD_BwE:G:s&s_kwcid=AL!4422!3!651212652666!e!!g!!amazon%20lambda!909122559!45462427876) to manage databases.
+  - 🎮 [Qualcomm Institute](https://qi.ucsd.edu/) as a software engineering intern.
   - 🔷 [Computer Science and Engineering Society (CSES) at UCSD](https://csesucsd.com/), a computing org at UC San Diego as the Professional Development Chair.
  
-<!-- 
 - I previously was at:
-  - 🖥️ [NVIDIA](https://www.nvidia.com) in the hardware infrastructure group on the Test Automation Team and then the Security Team as a software engineering intern.
-    - On the Test Automation team, I built a web based platform for CPU and GPU engineers to see the status of all their running tests
-    - On the Security team, I implemented observability on the security auditing platform, giving developers more insight onto the platform.
-  - The [ECE Day committee](http://eceday.ucsd.edu/) to make an event that celebrates the spirit of Electrical and Computer -->
+  - 🎮 [LearnWise AI](https://learnwise.ai/) as a software engineering intern, working with [AWS Lambda](https://aws.amazon.com/pm/lambda/?trk=73f686c8-9606-40ad-852f-7b2bcafa68fe&sc_channel=ps&ef_id=CjwKCAjw7c2pBhAZEiwA88pOF3Z5p4IJyRnwDbFg6Uqu4Qlt8SfkNjY42dbMOoOlfsI7EW12li-iuRoCzUwQAvD_BwE:G:s&s_kwcid=AL!4422!3!651212652666!e!!g!!amazon%20lambda!909122559!45462427876) to manage databases.
 
 [email](mailto:derricklin0925@gmail.com) • [website](https://derryl0925.github.io/derrick_lin.github.io/) • [linkedin](https://www.linkedin.com/in/derrick-lin-952016249/) • [devpost](https://devpost.com/derryl0925)
 
