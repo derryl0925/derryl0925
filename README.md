@@ -7,7 +7,7 @@
 I'm a second year Computer Engineering and Cognitive Science (Machine Learning) student at UC San Diego 🔱. I love working with computers within software roles and learning new technologies. I'm passionate about CS education and spreading CS to underrepresented communities!
 
 - I'm currently working at:
-  - 🎮 [Qualcomm Institute](https://qi.ucsd.edu/) as a software engineering intern.
+  - 🖥️ [Qualcomm Institute](https://qi.ucsd.edu/) as a software engineering intern.
   - 🔷 [Computer Science and Engineering Society (CSES) at UCSD](https://csesucsd.com/), a computing org at UC San Diego as the Professional Development Chair.
  
 - I previously was at:
