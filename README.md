@@ -18,8 +18,6 @@ I'm a second year Computer Engineering and Cognitive Science (Machine Learning) 
 [email](mailto:derricklin0925@gmail.com) • [website](https://derryl0925.github.io/) • [linkedin](https://www.linkedin.com/in/derrick-lin-952016249/) • [devpost](https://devpost.com/derryl0925) • [leetcode](https://leetcode.com/derryl0925/)
 
 ## Quick Bits
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=derryl0925&hide_border=true&background=FFFFFF00&currStreakNum=FF924F&sideNums=B3B3B3&sideLabels=8F8F8F)](https://git.io/streak-stats)
