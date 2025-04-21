@@ -4,12 +4,12 @@
 
 
 I'm a third year Computer Engineering and Cognitive Science (Machine Learning) student at UC San Diego 🔱. I love working with computers within software roles and learning new technologies. I'm passionate about CS education and spreading CS to underrepresented communities!
-<--
+<!--
 - I'm currently working at:
   - 
 -->
 - I previously was at:
-  - [LearnWise AI](https://learnwise.ai/) as a software engineering intern, working with [AWS Lambda](https://aws.amazon.com/pm/lambda/?trk=73f686c8-9606-40ad-852f-7b2bcafa68fe&sc_channel=ps&ef_id=CjwKCAjw7c2pBhAZEiwA88pOF3Z5p4IJyRnwDbFg6Uqu4Qlt8SfkNjY42dbMOoOlfsI7EW12li-iuRoCzUwQAvD_BwE:G:s&s_kwcid=AL!4422!3!651212652666!e!!g!!amazon%20lambda!909122559!45462427876) to manage databases.
+  - [LearnWise AI](https://learnwise.ai/) as a software engineering intern, working with AWS Lambda to manage databases.
   - [Qualcomm Institute](https://qi.ucsd.edu/) as a software engineering intern.
   - [Computer Science and Engineering Society (CSES) at UCSD](https://csesucsd.com/), a computing org at UC San Diego as an Event Director for Professional Development.
     - Created technical workshops, projects, and events within CSES, providing career development support.
