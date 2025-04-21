@@ -16,7 +16,7 @@ I'm a third year Computer Engineering and Cognitive Science (Machine Learning) s
   - [Supermicro](https://www.supermicro.com/en/) as a system engineer on the GPU Team, utilizing NVIDIA Datacenter GPUs to implement and optimize advanced LLM inferencing.
   - [TipTop Technologies](https://mind360.ai/) as a software developer, working on database implementation and NLP applications.
 
-[email](mailto:derricklin0925@gmail.com) • [website](https://derryl0925.github.io/) • [linkedin](https://www.linkedin.com/in/derrick-lin-952016249/) • [devpost](https://devpost.com/derryl0925) • [leetcode](https://leetcode.com/derryl0925/)
+[email](mailto:derricklin0925@gmail.com) • [website](https://derryl0925.github.io/) • [linkedin](https://www.linkedin.com/in/derrick-l-952016249/) • [devpost](https://devpost.com/derryl0925) • [leetcode](https://leetcode.com/derryl0925/)
 
 ## Quick Bits
 <div align="center">
