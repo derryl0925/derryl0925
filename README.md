@@ -3,11 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;Developer;Student;Programmer;Software+Engineer;Machine+Learning+Engineer)](https://git.io/typing-svg)
 
 
-I'm a third year Computer Engineering and Cognitive Science (Machine Learning) student at UC San Diego 🔱. I love working with computers within software roles and learning new technologies. I'm passionate about CS education and spreading CS to underrepresented communities!
-<!--
+I graduated from UC San Diego 🔱 with a degree in Computer Engineering and Cognitive Science (Machine Learning), and I'm now pursuing my M.S. in Computer Science & AI at Boston University. I love working with computers within software roles and learning new technologies. I'm passionate about CS education and spreading CS to underrepresented communities!
+
 - I'm currently working at:
-  - 
--->
+  - [Amazon](https://www.amazon.com/) as a software engineer, building production Rust CLIs and AI tooling for big data teams.
 - I previously was at:
   - [LearnWise AI](https://learnwise.ai/) as a software engineering intern, working with AWS Lambda to manage databases.
   - [Qualcomm Institute](https://qi.ucsd.edu/) as a software engineering intern.
